@@ -1,0 +1,3 @@
+path: C:\Projekte\observe
+file_limit: 1
+get_url: http://localhost:3000/test?title=Title&message=myContent
